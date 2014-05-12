@@ -7,6 +7,8 @@ import javax.swing.*;
 import java.io.*;
 
 /**
+ * 
+ * 
    The TextEditor class is a simple text editor.
 */
 
